@@ -1,2 +1,2 @@
 # gunbot-monit
-Gunboit Monitor
+Gunbot Monitor
