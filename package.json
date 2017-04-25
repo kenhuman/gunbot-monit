@@ -1,0 +1,29 @@
+{
+  "name": "gunbot-monit",
+  "version": "1.0.0",
+  "description": "Gunbot Monitor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenhuman/gunbot-monit.git"
+  },
+  "keywords": [
+    "gunbot"
+  ],
+  "author": "Ken Human",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenhuman/gunbot-monit/issues"
+  },
+  "homepage": "https://github.com/kenhuman/gunbot-monit#readme",
+  "dependencies": {
+    "big-integer": "^1.6.21",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.6",
+    "kraken-api": "^0.1.7",
+    "node.bittrex.api": "^0.2.2"
+  }
+}
